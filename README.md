@@ -11,6 +11,7 @@
 	<li>sudo gem install bundler</li>
 </ul>
 <p> NOW WITH THE DEPENDENCIES INSTALLED YOU CAN RUN THE BUNDLER </p>
+<p><strong>IMPORTANT: </strong>remember to launch the following commands in the folder where you have downloaded the fork</p>
 <ul>
  	<li>bundler install --path vendor/bundle</li>
  	<li>bundler exec middleman server</li>
